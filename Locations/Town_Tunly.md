@@ -24,5 +24,9 @@ The road outside town leads east to the Mallow River ford, which is easily cross
 
 ## Characters
 
-[Dembeks](/Characters/Family_Dembek.md)  
-[Knapiks](/Characters/Family_Knapik.md)  
+[Boruch Family](/Characters/Family_Boruch.md)  
+[Dembek Family](/Characters/Family_Dembek.md)  
+[Gmerek Family](/Characters/Family_Gmerek.md)  
+[Knapik Family](/Characters/Family_Knapik.md)  
+[Lenski Family](/Characters/Family_Lenski.md)  
+[Pytel Family](/Characters/Family_Pytel.md)  
