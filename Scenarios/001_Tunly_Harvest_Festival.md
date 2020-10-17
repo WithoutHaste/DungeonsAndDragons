@@ -5,4 +5,6 @@ Intended for:
 - to introduce the rules to new players
 - as a simple story for a first-time DM
 
-Setting: [Town of Tunly](../Locations/Town_Tunly.md)  
+Setting: [Town of Tunly](/Locations/Town_Tunly.md)  
+
+[Guardsman Fyodor](/Characters/Family_Knapik.md#Fyodor)

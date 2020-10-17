@@ -14,7 +14,7 @@ Tunly was an adventurer (ranger) who, having returned from the forest, decided t
 
 {todo map}
 
-Tunly is just west of the Mallow River. [The Standing Forest](Standing_Forest.md) begins on the far shore of the river.
+Tunly is just west of the Mallow River. [The Standing Forest](/Locations/Standing_Forest.md) begins on the far shore of the river.
 
 The road outside town leads east to the Mallow River ford, which is easily crossed (2 feet deep, 150 feet across) in the summer and fall. It ices over in winter.  In spring it is 15 feet deep and 200 feet across, very fast, and dangerously full of tree limbs.
 
@@ -22,3 +22,7 @@ The road outside town leads east to the Mallow River ford, which is easily cross
 
 {todo map}
 
+## Characters
+
+[Dembeks](/Characters/Family_Dembek.md)  
+[Knapiks](/Characters/Family_Knapik.md)  
