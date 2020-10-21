@@ -7,6 +7,8 @@ Intended for:
 
 Setting: [Town of Tunly](/Locations/Town_Tunly.md)  
 
+Author: Without Haste
+
 ## Summary
 
 You show up in a new town
