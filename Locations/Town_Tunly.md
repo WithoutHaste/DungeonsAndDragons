@@ -20,7 +20,8 @@ The road outside town leads east to the Mallow River ford, which is easily cross
 
 ## Map: Town
 
-![Map of Tunly](/Locations/Images/Town_Tunly.svg)
+![Map of Tunly](/Locations/Images/Town_Tunly.png)
+(svg [here](/Locations/Images/Town_Tunly.svg))
 
 ## Characters
 
