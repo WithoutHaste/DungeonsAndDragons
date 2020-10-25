@@ -23,6 +23,16 @@ The road outside town leads east to the Mallow River ford, which is easily cross
 ![Map of Tunly](/Locations/Images/Town_Tunly.png)  
 (svg [here](/Locations/Images/Town_Tunly.svg))
 
+## Locations
+
+### The White Crow Inn
+
+Respectable inn for adventurers and traders.
+
+### The Duchess (Inn)
+
+Disreputable inn.
+
 ## Characters
 
 [Boruch Family](/Characters/Family_Boruch.md)  
