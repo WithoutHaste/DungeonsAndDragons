@@ -25,16 +25,31 @@ The road outside town leads east to the Mallow River ford, which is easily cross
 
 ## Locations
 
-### The White Crow Inn
+### Apothecary Shop
 
-Respectable inn for adventurers and traders.
+Run by [Mistress Gurta](/Characters/Family_Aldag.md#Gurta)
+
+### Blacksmith
+
+Run by [Reinhardt Gmerek](/Characters/Family_Gmerek.md#Reinhardt)
+
+### Dry Goods Store
+
+Run by [Waldo Boruch](/Characters/Family_Boruch.md#Waldo)
 
 ### The Duchess (Inn)
 
 Disreputable inn.
 
+### The White Crow Inn
+
+Respectable inn for adventurers and traders.
+
+Barmaid [Beata Knapik](/Characters/Family_Knapik.md#Beata)  
+
 ## Characters
 
+[Aldag Family](/Characters/Family_Aldag.md)  
 [Boruch Family](/Characters/Family_Boruch.md)  
 [Dembek Family](/Characters/Family_Dembek.md)  
 [Gmerek Family](/Characters/Family_Gmerek.md)  

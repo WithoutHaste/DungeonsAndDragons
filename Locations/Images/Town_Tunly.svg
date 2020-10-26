@@ -28,17 +28,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="173.87454"
-     inkscape:cy="348.40357"
+     inkscape:zoom="1.4"
+     inkscape:cx="482.51293"
+     inkscape:cy="310.03317"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1199"
-     inkscape:window-height="1004"
-     inkscape:window-x="-2"
-     inkscape:window-y="1"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      units="px" />
   <metadata
      id="metadata7">
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,7 +123,8 @@
          id="flowPara4331">C: The White Crow Inn</flowPara><flowPara
          id="flowPara4679">D: The Duchess (Inn)</flowPara><flowPara
          id="flowPara4731">E: Dry Goods Store</flowPara><flowPara
-         id="flowPara4383"></flowPara><flowPara
+         id="flowPara4418">F: Apothecary</flowPara><flowPara
+         id="flowPara4383" /><flowPara
          id="flowPara4421">K: Mayor's House</flowPara><flowPara
          id="flowPara4967">L: Boruch House</flowPara><flowPara
          id="flowPara4981">M: Gmerek House</flowPara><flowPara
@@ -628,9 +629,10 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 251.42857,252.14286 -17.85714,-25 -35,-2.85715 -1.42857,27.85715 L 235,260.71429 Z"
+       d="m 251.42857,252.14286 -15,-22.14286 -38.57143,1.42857 -0.71428,20.71429 L 235,260.71429 Z"
        id="path4807"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 253.57143,196.42857 -2.14286,20.71429 -27.14286,0.71428 -0.71428,-27.14285 L 235,177.85714 Z"
@@ -722,10 +724,11 @@
        id="path4845"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#eedeb2;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 252.14286,193.57143 9.28571,4.28571 -2.85714,25.71429 L 235,229.28571 197.85714,223.57143 202.14286,210 225,217.85714 l 26.42857,-0.71428 z"
+       style="fill:#eedeb2;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 252.14286,193.57143 9.28571,4.28571 -2.85714,25.71429 L 235,229.28571 199.28571,231.42857 202.14286,210 225,217.85714 l 26.42857,-0.71428 z"
        id="path4847"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
     <path
        style="fill:#eedeb2;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="m 402.14286,350.71429 1.42857,-17.85715 -39.28572,-8.57143 L 342.85714,345 l -4.28571,-7.14286 25,-21.42857 39.28571,12.14286 5,-21.42857 7.14286,6.42857 -5.71429,35 z"
@@ -1016,5 +1019,17 @@
            x="191.92899"
            y="677.78174"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'" /></flowRegion><flowPara
-         id="flowPara4147-9-5-8-2-2-5-9-2-6">P</flowPara></flowRoot>  </g>
+         id="flowPara4147-9-5-8-2-2-5-9-2-6">P</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4141-4-4-00-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-90.210265,-522.52421)"><flowRegion
+         id="flowRegion4143-4-3-82-3"><rect
+           id="rect4145-4-3-9-7"
+           width="25.25382"
+           height="18.182737"
+           x="191.92899"
+           y="677.78174"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS'" /></flowRegion><flowPara
+         id="flowPara4147-9-5-0-4">F</flowPara></flowRoot>  </g>
 </svg>
