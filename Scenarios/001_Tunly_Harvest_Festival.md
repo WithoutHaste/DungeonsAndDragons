@@ -106,7 +106,7 @@ A loud voice draw your attention to the people crowded around a table covered wi
 ## Investigation
 
 Intelligence (Investigation) check DC 8: you notice pumpkin seeds on the ground, leading back along the main street
-- The lack 'o lanterns are all carved with the bottom cut out, and the bottoms of the stolen pumpkins were left behind, allowing some overlooked seeds to drop to the ground.
+- The jack 'o lanterns are all carved with the bottom cut out, and the bottoms of the stolen pumpkins were left behind, allowing some overlooked seeds to drop to the ground.
 - At DC 14 and you notice that there is also straw along this path, different from the wheat that is hung on the doors.
 
 (if the party totally fails to pick up the seed path, then boy [Oscar](/Characters/Family_Pytel.md#Oscar) will volunteer his dog Dug, who can follow the trail based on sniffing one of the pumpkin bottoms - Oscar and the dog will run back home once they see the monster scarecrows moving)
@@ -183,7 +183,7 @@ Once combat begins, the Druid will order his scarecrows to attack the party
 - animated object
 - small sized
 - AC 0 - any attack on the pumpkin will damage it (because it is a work of art)
-  - breaking out of grapple using STENGTH counts as an attack
+  - breaking out of grapple using STRENGTH counts as an attack
   - using ACROBATICS to avoid or get out of a grapple does not damage the pumpkin
 - HP 1 - any attack will destroy the pumpkin (you've got broken pumpkin)
 - Speed 30 Feet - roll across the ground surprisingly fast
