@@ -13,3 +13,7 @@ To apply some consistent pricing:
 
 [001: Tunly Harvest Festival](Scenarios/001_Tunly_Harvest_Festival.md)  
 [002: Exploring Around Tunly](Scenarios/002_Exploring_Around_Tunly.md)  
+
+## References
+
+[Character Advancement - Experience Points](Reference/experience_points.md)
