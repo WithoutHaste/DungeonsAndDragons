@@ -29,7 +29,7 @@ What do you do?
 
 -- player actions --
 
-##NPC Interactions
+## NPC Interactions
 As they leave the inn, Sheriff Aldwin Lenski introduces himself and answers any questions the party might have.
 Ends with, "I know the Heroes of the Lantern won't be causing any trouble, now will they?"
 - (proud that he came up with that name himself; less so that he couldn't find the thief (he was following leads in
@@ -72,7 +72,7 @@ tavernkeeper uses it to completely nullify hangover.
  trouble this year. Haven't seen too many of the bastards lately, thank Chauntea [chawn-TEE-ah], but I'll happily pay
  a silver for every pelt you bring me."
  
-##Encounter—Goblins attack
+## Encounter—Goblins attack
 After the party's first few conversations, or after they visit their first store, or when they try to leave town:
 - You hear a scream, followed by a cacophony of shouting.
 - People come charging through the town gate, screaming and crying.
@@ -98,7 +98,7 @@ a misty white cloud, resembling something like snow or white fire, which freezes
 exactly rushing into battle. They're led by a man and woman with heavy crossbows [Reinhardt and Beata], the mayor close
 behind them.
 
-##After the fight:
+## After the fight:
 Sheriff: "The forest goblins have never so much as crossed the river, let alone attack us! What's going on here?"
 
 One of the dragonborn [Muumtindrish] responds, "We're following the trail of a certain druid who has been disturbing
