@@ -94,7 +94,7 @@ There is no right answer to this encounter.
 
 [Mistress Gurta](/Characters/Family_Aldag.md#Gurta)
 
-[Apothecary Shop](/Locations/Town_Tunly.md#Apothecary Shop)
+[Apothecary Shop](/Locations/Town_Tunly.md#Apothecary_Shop)
 
 ![Trap map](/Locations/Images/Shop_Tunly_Apothecary_Scenario_003.png)
 (svg [here](/Locations/Images/Shop_Tunly_Apothecary_Scenario_003.svg))
@@ -160,7 +160,7 @@ The first rat is bold, the second hangs back and will run away afraid if you fin
 
 ### Introduce Hemlock Lake
 
-[Hemlock Lake](/Locations/Standing_Forest.md#Hemlock Lake)
+[Hemlock Lake](/Locations/Standing_Forest.md#Hemlock_Lake)
 
 A few yards past the rat encounter, you come to the shore of a quiet lake.
 
