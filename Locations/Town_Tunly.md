@@ -27,7 +27,14 @@ The road outside town leads east to the Mallow River ford, which is easily cross
 
 ### Apothecary Shop
 
-Run by [Mistress Gurta](/Characters/Family_Aldag.md#Gurta)
+Owner and Shopkeep: [Mistress Gurta](/Characters/Family_Aldag.md#Gurta)
+
+The apothecary shop extends back much farther than you'd expect. The front door opens on a large, clear foyer. Then there are stairs up a half-level to the main shop. The "balcony" is lined with a banister.
+
+The foyer is always a grid of non-lethal traps. The layout changes over time. Mistress Gurta used to be an adventurer herself, and likes to get the measure of her customers.
+
+![Trap map from Scenario 003](/Locations/Images/Shop_Tunly_Apothecary_Scenario_003.png)
+(svg [here](/Locations/Images/Shop_Tunly_Apothecary_Scenario_003.svg))
 
 ### Blacksmith
 

@@ -11,9 +11,10 @@ To apply some consistent pricing:
 
 ## Scenarios
 
-[001: Tunly Harvest Festival](Scenarios/001_Tunly_Harvest_Festival.md)  
-[002: Exploring Around Tunly](Scenarios/002_Exploring_Around_Tunly.md)  
+[001: Tunly Harvest Festival](/Scenarios/001_Tunly_Harvest_Festival.md)  
+[002: Exploring Around Tunly](/Scenarios/002_Exploring_Around_Tunly.md)  
+[003: Non-Combat In Tunly](/Scenarios/003_Non_Combat_In_Tunly.md)  
 
 ## References
 
-[Character Advancement - Experience Points](Reference/experience_points.md)
+[Character Advancement - Experience Points](/Reference/experience_points.md)
