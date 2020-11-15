@@ -20,12 +20,16 @@ Health, stamina, vital force.
 
 Constitution is not divided into skills because it is a largely passive check.
 
+| Skill            | Examples             |
+| ---------------- | -------------------- |
 | **unskilled** | Hold your breath, long march, sleep deprivation, survive hunger and thirst |
 
 ## Strength
 
 Bodily power, athletic training, raw physical force, brute force.
 
+| Skill            | Examples             |
+| ---------------- | -------------------- |
 | **Athletics** | Climbing, Jumping, Swimming |
 | **unskilled** | Brute Force |
 
@@ -43,6 +47,8 @@ Strength modifier also determines how much weight you can bear.
 
 Agility, reflexes, balance.
 
+| Skill            | Examples             |
+| ---------------- | -------------------- |
 | **Acrobatics** | Stay on your feet in tricky situations, or acrobatic stunts |
 | **Sleight of Hand** | Legerdemain, manual trickery, pickpocketing |
 | **Stealth** | Hide from enemies, evade guards, sneak |
@@ -56,6 +62,8 @@ Dexterity check determines Initiative when combat begins - the order in which ev
 
 Mental acuity, memory, reasoning ability, logic, education.
 
+| Skill            | Examples             |
+| ---------------- | -------------------- |
 | **Arcana** | Recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence |
 | **History** | Recall lore about historical events |
 | **Investigation** | Look for clues, make deductions (such as the location of a hidden item), determine what weapon made a wound, find a weak point in a structure |
@@ -69,6 +77,8 @@ Wizards spell cast with their Intelligence ability.
 
 Perception, intuition, how in tune you are with the world around you.
 
+| Skill            | Examples             |
+| ---------------- | -------------------- |
 | **Animal Handling** | Call a domesticated animal, unspook a mount, intuit an animal's intentions |
 | **Insight** | Determine intentions using body language, speech habits, and mannerisms |
 | **Medicine** | Diagnose an illness, stabilize a patient |
@@ -82,6 +92,8 @@ Clerics, druids, and rangers cast with their Wisdom ability.
 
 Interact effectively with others, confidence, eloquence, charm, a commanding personality.
 
+| Skill            | Examples             |
+| ---------------- | -------------------- |
 | **Deception** | Hide the truth, be ambiguous, lie, fast-talk, cons, gambling, disguises, false assurances, maintain a straight face |
 | **Intimidation** | Influence others with overt threats, hostile actions, physical violence |
 | **Performance** | Delight an audience with music, dance, acting, storytelling |
