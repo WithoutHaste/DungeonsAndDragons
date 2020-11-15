@@ -18,3 +18,4 @@ To apply some consistent pricing:
 ## References
 
 [Character Advancement - Experience Points](/Reference/experience_points.md)
+[Skills](/Reference/skills.md)
