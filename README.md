@@ -18,4 +18,6 @@ To apply some consistent pricing:
 ## References
 
 [Character Advancement - Experience Points](/Reference/experience_points.md)  
+[Monsters - by challange level](/Reference/monsters_by_challenge.md)  
 [Skills](/Reference/skills.md)  
+[Weapons](/Reference/weapons.md)  
