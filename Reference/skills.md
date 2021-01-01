@@ -14,6 +14,34 @@ Alternately, everyone in the group rolls. Half of them need to succeed for the w
 
 You succeed at a Saving Throw is you meet or beat the DC (difficulty class).
 
+| Task Difficulty | DC   |
+| --------------- | ---- |
+| Very Easy | 5 |
+| Easy | 10 |
+| Medium | 15 |
+| Hard | 20 |
+| Very Hard | 25 |
+| Nearly Impossible | 30 |
+
+| Ability Score | Modifier |
+| ------------- | -------- |
+| 1 | -5 |
+| 2,3 | -4 |
+| 4,5 | -3 |
+| 6,7 | -2 |
+| 8,9 | -1 |
+| 10,11 | 0 |
+| 12,13 | +1 |
+| 14,15 | +2 |
+| 16,17 | +3 |
+| 18,19 | +4 |
+| 20,21 | +5 |
+| 22,23 | +6 |
+| 24,25 | +7 |
+| 26,27 | +8 |
+| 28,29 | +9 |
+| 30 | +10 |
+
 ## Constitution
 
 Health, stamina, vital force.
