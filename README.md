@@ -21,3 +21,10 @@ To apply some consistent pricing:
 [Monsters - by challange level](/Reference/monsters_by_challenge.md)  
 [Skills](/Reference/skills.md)  
 [Weapons](/Reference/weapons.md)  
+
+## Resources
+
+[Donjon Loot Generator](https://donjon.bin.sh/d20/treasure/)
+- with selections already made: https://donjon.bin.sh/d20/treasure/index.cgi
+
+[First Names List](http://namesabound.com/)
