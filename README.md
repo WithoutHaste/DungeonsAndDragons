@@ -22,6 +22,7 @@ To apply some consistent pricing:
 
 [Character Advancement - Experience Points](/Reference/experience_points.md)  
 [Monsters - by challange level](/Reference/monsters_by_challenge.md)  
+[Roll20 Notes](/References/roll20.md)  
 [Skills](/Reference/skills.md)  
 [Weapons](/Reference/weapons.md)  
 
@@ -30,4 +31,8 @@ To apply some consistent pricing:
 [Donjon Loot Generator](https://donjon.bin.sh/d20/treasure/)
 - with selections already made: https://donjon.bin.sh/d20/treasure/index.cgi
 
-[First Names List](http://namesabound.com/)
+[Names Abound](http://namesabound.com/)
+- thousands of names
+
+[Roll20](https://app.roll20.net/)
+- D&D game management
