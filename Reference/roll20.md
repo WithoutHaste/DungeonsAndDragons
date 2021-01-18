@@ -25,6 +25,8 @@ The Journal tab holds player character sheets, npc character template sheets, ma
 
 If you set the _avatar_ on an npc sheet, it will be used as the token for those characters. To add them to the active map, click on the _name_ (not the _icon_) in the Journal and drag-n-drop it onto the map. Make sure you're on the _Objects&Tokens_ layer of the map.
 
+To rearrange character sheets inside the Journal, drag-and-drop it by the icon.
+
 ## Macros
 
 The Collection tab includes custom Macros.
