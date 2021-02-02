@@ -14,8 +14,8 @@ To apply some consistent pricing:
 [001: Tunly Harvest Festival](/Scenarios/001_Tunly_Harvest_Festival.md)  
 [002: Exploring Around Tunly](/Scenarios/002_Exploring_Around_Tunly.md)  
 [003: Non-Combat In Tunly](/Scenarios/003_Non_Combat_In_Tunly.md)  
-004: todo Michael   
-005: todo Michael   
+[004: The Standing Forest](/Scenarios/004_The_Standing_Forest.md)  
+[005: The Arch Tree](/Scenarios/005_The_Arch_Tree.md)  
 006: in progress Jennelle  
 
 ## References
