@@ -16,7 +16,7 @@ To apply some consistent pricing:
 [003: Non-Combat In Tunly](/Scenarios/003_Non_Combat_In_Tunly.md)  
 [004: The Standing Forest](/Scenarios/004_The_Standing_Forest.md)  
 [005: The Arch Tree](/Scenarios/005_The_Arch_Tree.md)  
-006: in progress Jennelle  
+[006: Captured By Bandits](/Scenarios/006_Captured_By_Bandits.md)  
 
 ## References
 
