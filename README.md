@@ -2,13 +2,6 @@
 
 Dungeons And Dragons scenarios and resources
 
-## Economics
-
-To apply some consistent pricing:
-- 1 Gold = $300
-- 1 Silver = $30
-- 1 Copper = $3
-
 ## Scenarios
 
 [001: Tunly Harvest Festival](/Scenarios/001_Tunly_Harvest_Festival.md)  
@@ -21,10 +14,13 @@ To apply some consistent pricing:
 ## References
 
 [Character Advancement - Experience Points](/Reference/experience_points.md)  
-[Monsters - by challange level](/Reference/monsters_by_challenge.md)  
-[Roll20 Notes](/References/roll20.md)  
+[Monsters - by challenge level](/Reference/monsters_by_challenge.md)  
+[Combat](/Reference/combat.md)  
 [Skills](/Reference/skills.md)  
 [Weapons](/Reference/weapons.md)  
+[Size Categories](/References/size_categories.md)  
+
+[Roll20 Notes](/References/roll20.md)  
 
 ## Resources
 
