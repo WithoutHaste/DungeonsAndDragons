@@ -18,7 +18,7 @@ Dungeons And Dragons scenarios and resources
 [Combat](/Reference/combat.md)  
 [Skills](/Reference/skills.md)  
 [Weapons](/Reference/weapons.md)  
-[Size Categories](/References/size_categories.md)  
+[Size Categories](/Reference/size_categories.md)  
 
 [Roll20 Notes](/References/roll20.md)  
 

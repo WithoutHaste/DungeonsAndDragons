@@ -1,24 +1,34 @@
 # Weapons
 
-Melee weapons: range 5 feet or less  
-Ranged weapons: range greater than 5 feet
+## Range
 
-Simple weapons proficiency: clubs, maces, etc - things commoners wield  
-Martial weapons proficiency: swords, axes, polearms, etc - requires special training
+**Melee weapons**: Range 5 feet or less.  
 
-Proficiency with a weapon means you add your Proficiency Bonus to Attack Rolls.
+**Ranged weapons**: Range greater than 5 feet. For weapons that list a short and long range, you will be at DISADVANTAGE targeting creatures at long range.
 
-Attacking with a finesse weapon: roll with Strength or Dexterity for Attack and Damage Rolls
+You can throw melee weapons in a ranged attack. Normal range 20 feet, or long range 60 feet.
 
-Small creatures are at disadvantage wielding Heavy weapons.
+## Proficiency
+
+**Simple weapons proficiency**: clubs, maces, etc - things commoners wield.
+
+**Martial weapons proficiency**: swords, axes, polearms, etc - requires special training
+
+PROFICIENCY with a weapon means you add your PROFICIENCY BONUS to ATTACK ROLLS.
+
+## Weapon Properties
+
+Attacking with a FINESSE weapon: Roll with STRENGTH or DEXTERITY for ATTACK and DAMAGE ROLLS.
+
+SMALL creatures are at DISADVANTAGE wielding HEAVY weapons.
 
 Versatile: wield it 1 handed or 2 handed. 2 handed deals more damage.
 
 Reach: add 5 feet to the normal melee range.
 
-You can throw melee weapons in a ranged attack. Normal range 20 feet, or long range 60 feet.
-
 Improvised weapons are anything you can wield with 1 or 2 hands. Something like a table leg can be treated as a club. Anything unusual will default to `1d4` damage.
+
+## Standard Weapons
 
 | Simple Weapon | Damage | Properties |
 | ------ | ------ | ---------- |

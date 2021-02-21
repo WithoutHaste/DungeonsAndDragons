@@ -16,17 +16,14 @@
   - No reaction until your first turn in combat ends.
 - SURPRISE is checked for each character, so some can be surprised while others are not.
 
-**Space**: The region of map that a creature controls. See [Size Categories](/References/size_categories.md).
+**Space**: The region of map that a creature controls. See [Size Categories](/Reference/size_categories.md).
 
 ## Step-by-Step
 
-1) Determine surprise
-
-2) Establish positions
-
-3) Roll initiative
-
-4) Takes turns (repeat in initiative order until combat ends)
+1) Determine surprise  
+2) Establish positions  
+3) Roll initiative  
+4) Takes turns (repeat in initiative order until combat ends)  
 
 ## Turn
 
@@ -65,17 +62,15 @@ The DM can decide if something requires your ACTION for the turn. Here are examp
 - Turn a key in a lock
 - Tap a door with a 10-foot pole
 
-### Movement
+## Movement
 
-_"Movement Cost +1" means that the you must spend 1 extra foot of SPEED for this MOVEMENT._
+_"Movement Cost +1" means that the you must spend 1 extra foot of SPEED per foot of MOVEMENT._
 
 _"Idempotent" means that applying the effect more than once has the same result as applying it just once._
 
 If you have multiple speeds (such as walk and fly), then you can switch between them. Subtract the total distance traveled from the new speed when you switch.
 
-DIFFICULT TERRAIN has Movement Cost +1.
-- Idempotent with itself.
-- An occupied space (fried or foe) is always DIFFICULT TERRAIN.
+DIFFICULT TERRAIN has Movement Cost +1 and is idempotent with itself. An occupied space (friend or foe) is always DIFFICULT TERRAIN.
 
 Dropping into a PRONE position does not use up MOVEMENT.  
 However, STANDING UP costs half your SPEED.  
@@ -83,7 +78,7 @@ However, STANDING UP costs half your SPEED.
 CRAWLING (moving while PRONE) has Movement Cost +1.
 
 You can move through spaces occupied by non-hostiles.  
-You can move through spaces occupied by hostiles if they are 2 [Size Categories](/References/size_categories.md) different than you.  
+You can move through spaces occupied by hostiles if they are 2 [Size Categories](/Reference/size_categories.md) different than you.  
 You cannot willingly end your turn in any creature's space.  
 If you leave a hostile creature's REACH, you provoke an ATTACK OF OPPORTUNITY.  
 
@@ -95,13 +90,13 @@ Creatures can squeeze through a SPACE that is one SIZE smaller than itself.
 - DISADVANTAGE on DEXTERITY SAVING THROWS.
 - Attackers have ADVENTAGE on ATTACK rolls.
 
-### Action
+## Action
 
 You may do one of the following, or take a class action, a special feature action, or an improvised action. The DM will tell you if your improvised action is possible, and if so what to ROLL to make to see if it succeeds.
 
 | Action | Effects |
 | ---    | ---     |
-| Attack | Make 1 melee or ranged attack against a creature. Some features let you make multiple ATTACKS. |
+| Attack | Make 1 melee or ranged attack against a creature. Some features let you make multiple ATTACKS in one ACTION. |
 | Cast spell | Cast a spell with a "1 ACTION" casting time. |
 | Dash | Double your SPEED for this turn. |
 | Disengage | Your MOVEMENT does not provoke an ATTACK OF OPPORTUNITY for this turn. |
@@ -112,6 +107,26 @@ You may do one of the following, or take a class action, a special feature actio
 | Ready | Prepare a REACTION to be used before the start of your next turn. Specify a TRIGGER. Specify the ACTION or MOVEMENT you will take in response. If the trigger happens, you have the option to ignore it. MOVEMENT is limited by your SPEED. Spells still need a "1 Action" case time and they all require CONCENTRATION. |
 | Search | Focus on finding something. The DM will specify a WISDOM(PERCEPTION) check or INTELLIGENCE(INVESTIGATION) check. |
 | Use an object | For when the interaction you want to make requires a full action. |
+
+## Attack
+
+1) Choose a target within range  
+2) Determine modifiers (such as cover, advantage, etc)  
+3) Resolve the attack: make your ATTACK ROLL. On a hit, ROLL DAMAGE.
+
+An ATTACK ROLL is 1d20 + modifiers.
+- Melee attacks use STRENGTH modifier.
+- Ranged attacks use DEXERITY modifier.
+- Spells use the appropriate spell-casting modifier for your class.
+- Add your PROFICIENCY BONUS if your are PROFICIENT with this type of [weapon](/Reference/weapons.md).
+- CRITICAL HIT: A natural 20 (without modifiers) results in a successful ATTACK, regardless of everything else.
+- CRITICAL MISS: A natural 1 (without modifiers) results in a failed ATTACK, regardless of everything else.
+
+A HIT occurs when your ATTACK ROLL meets or beats the target's ARMOR CLASS.
+
+You have DISADVANTAGE to attack a creature you cannot see. This can happen when you are guessing at their location, or you can hear but not see them.
+
+You have ADVANTAGE to attack creatures that cannot see you. But you will give away your location whether you hit or not.
 
 ## Reaction
 
