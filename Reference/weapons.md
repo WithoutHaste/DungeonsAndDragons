@@ -2,9 +2,9 @@
 
 ## Range
 
-**Melee weapons**: Range 5 feet or less.  
+**Melee weapons**: Range is equal to creature's REACH. Usually 5 feet or less.  
 
-**Ranged weapons**: Range greater than 5 feet. For weapons that list a short and long range, you will be at DISADVANTAGE targeting creatures at long range.
+**Ranged weapons**: Range greater than 5 feet. For weapons that list a short and long range, you will be at DISADVANTAGE targeting creatures at long range. Ranged attacks also have DISADVANTAGE if there is a hostile creature within 5 feet who can see you and is not incapacitated.
 
 You can throw melee weapons in a ranged attack. Normal range 20 feet, or long range 60 feet.
 
@@ -27,6 +27,8 @@ Versatile: wield it 1 handed or 2 handed. 2 handed deals more damage.
 Reach: add 5 feet to the normal melee range.
 
 Improvised weapons are anything you can wield with 1 or 2 hands. Something like a table leg can be treated as a club. Anything unusual will default to `1d4` damage.
+
+Light: If you are wielding 2 light weapons and are normally allowed to ATTACK with 1, you can take a BONUS ACTION to also ATTACK with the other (melee or thrown). Only add your ABILITY MODIFIER to the second attack if it is negative.
 
 ## Standard Weapons
 
