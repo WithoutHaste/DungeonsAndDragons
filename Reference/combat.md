@@ -93,11 +93,11 @@ You may do one of the following, or take a class action, a special feature actio
 | Dodge | Until the start of your next turn, all attacks against you from opponents you can see are at DISADVANTAGE. You make DEXTERITY SAVING THROWS with ADVANTAGE. You lose this effect if you're incapacitated or your speed is reduced to 0. |
 | Help Aid | You can aid another creature in completing a task. The creature will have ADVANTAGE on its next ABILITY CHECK to complete this task (until the start of your next turn). |
 | Help Distract | You help attack a creature within 5 feet of you. The next ally attacking this creature does so with ADVANTAGE (until the start of your next turn). |
-| Hide | Make a DEXTERITY(STEALTH) check for hide (**see ch 7**) If you succeed, you are hidden from view. |
+| Hide | If the DM allows it, make a DEXTERITY(STEALTH) roll. You are now hidden from view. Your DEX roll is the DC for all WISDOM(PERCEPTION) checks searching for you. |
 | Ready | Prepare a REACTION to be used before the start of your next turn. Specify a TRIGGER. Specify the ACTION or MOVEMENT you will take in response. If the trigger happens, you have the option to ignore it. MOVEMENT is limited by your SPEED. Spells still need a "1 Action" case time and they all require CONCENTRATION. |
 | Search | Focus on finding something. The DM will specify a WISDOM(PERCEPTION) check or INTELLIGENCE(INVESTIGATION) check. |
 | Use an object | For when the interaction you want to make requires a full action. |
-| Stabilize | Administer first aid to a creature at 0 HIT POINTS. Roll WISDOM(MEDICINE) against 10 DC. |
+| Stabilize | Administer first aid to a creature at 0 HIT POINTS. Roll DC 10 WISDOM(MEDICINE). |
 
 ## Attack
 
@@ -177,7 +177,7 @@ INSTANT DEATH occurs when you drop to 0 HP and the remaining DAMAGE meets or bea
 Otherwise, you fall unconscious. Regaining any HP will wake you up.
 
 When you start your turn with 0 HIT POINTS, you must make DEATH SAVING THROWS.
-- Roll a 1d20 against 10 DC. A 1 counts as 2 failures. A 20 regains you 1 HP.
+- Roll a DC 10 1d20. A 1 counts as 2 failures. A 20 regains you 1 HP.
 - 3 successes makes you STABLE
 - 3 failures makes you DEAD
 - Roll once per turn
