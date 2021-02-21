@@ -42,25 +42,7 @@ Other things you can mix into your turn:
 - Brief communication, by speech or gesture.
 - Interaction with 1 object or environmental feature.
   
-The DM can decide if something requires your ACTION for the turn. Here are examples of usually-allowed interactions:
-- Open a door during MOVE
-- Draw your weapon during ACTION to attack
-- Hand an item to another character
-- Getting a potion out
-- Pick up a dropped weapon, or a torch from a sconce
-- Take a bauble off the table, or a book from a shelf (within reach)
-- Remove a ring from your finger
-- Stuff some food in your mouth, or down a flagon
-- Plant a banner in the ground
-- Fish a few coins from your belt pouch
-- Throw a lever
-- Extinguish a small fire
-- Don a mask
-- Pull on or take off your hood
-- Put your ear to a door
-- Kick a small stone
-- Turn a key in a lock
-- Tap a door with a 10-foot pole
+The DM can decide if something requires your ACTION for the turn. Here are examples of usually-allowed interactions: • Open a door during MOVE • Draw your weapon during ACTION to attack • Hand an item to another character • Getting a potion out • Pick up a dropped weapon, or a torch from a sconce • Take a bauble off the table, or a book from a shelf (within reach) • Remove a ring from your finger • Stuff some food in your mouth, or down a flagon • Plant a banner in the ground • Fish a few coins from your belt pouch • Throw a lever • Extinguish a small fire • Don a mask • Pull on or take off your hood • Put your ear to a door • Kick a small stone • Turn a key in a lock • Tap a door with a 10-foot pole
 
 ## Movement
 
